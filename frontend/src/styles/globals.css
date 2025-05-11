@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+div#__next {
+  height: 100%;
+}
